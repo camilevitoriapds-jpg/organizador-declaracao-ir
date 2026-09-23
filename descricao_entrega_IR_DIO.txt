@@ -1,0 +1,1 @@
+Desenvolvi uma ferramenta em Excel para organizar informações e documentos relacionados à preparação da declaração de Imposto de Renda, com navegação, validações de dados, controle de rendimentos, bens, dívidas, despesas, documentos e resumo automático. A demonstração utiliza dados fictícios.
